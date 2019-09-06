@@ -59,4 +59,27 @@ Date:   Fri Sep 6 15:51:19 2019 -0400
 
     Initial commit
 
+# Answer 9:
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+# Answer 10:
+No, the changes were not made in the local file in relation to the changes made on the website.
+
+# Answer 11:
+An error occurs due to the remote containing work that I have not added locally.
+
+# Answer 12:
+Yes, there were more changes in my local directory that were to match that of the online repository.
+
+# Answer 13:
+.  ..  .git  .gitignore  README.md
 
